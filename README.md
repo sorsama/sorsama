@@ -10,6 +10,7 @@ Claude Code (I've tried many of them, but this one is really good)
 - C (and some C#)
 - Java
 - Python (love-hate relationship)
+  
 **But what if I use AI?**
   I can do anything fr...they can do a ton of things that I can't do, but don't worry, trust the process. Me + AI, we can build the whole solar system(not real).
 <!--
