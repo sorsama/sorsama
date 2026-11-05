@@ -1,5 +1,5 @@
 ## Hi, chat
-I am a student studying at Mahidol University right now. I create open source for most of my personal use, but I want to share it with everyone.
+I am a SE student studying at Mahidol University right now. I create open source for most of my personal use, but I want to share it with everyone.
 
 ## Coding Agent I use
 Claude Code (I've tried many of them, but this one is really good)
