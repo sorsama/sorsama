@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hire me thanks <3 love you all : https://zyphite.com
+contact me directly: sor@zyphite.com
